@@ -1,5 +1,4 @@
 {
-    "editor.fontFamily": "dank mono",
     "window.zoomLevel": 2,
     "textMateRules": [
         {
